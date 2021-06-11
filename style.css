@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+
+h1 {
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+}
+
+p {
+    font-family: Times New Roman, serif;
+    font-weight: 400;
+    text-align: justify;
+}
+
+hr {
+    border: solid;
+}
